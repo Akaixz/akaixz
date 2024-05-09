@@ -1,5 +1,4 @@
-### 
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=OPEN+SANS&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=435&lines=BEM-VINDO!" alt="Typing SVG" /></a>
+### Bem-vindo!
 <!--
 **Akaixz/akaixz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
