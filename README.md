@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 <p>⚡ - Python, HTML, CSS, Javascript </p>
 <p>:books: - Currently learning FIGMA, SAP, React.js</p>
 
+----
+
 ### Connect with me!
 <div>
 <p align="rigth">
@@ -29,10 +31,13 @@ Here are some ideas to get you started:
     <img height="28" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 
-  <a href=" maito:contato:pedro.fernandes2002@hotmail.com" target="_blank ">
+  <a href=" mailto:contato:pedro.fernandes2002@hotmail.com" target="_blank ">
     <img height="28"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
+
+----
+
 <div>
   
 [![Empyrean's GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=akaixz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
