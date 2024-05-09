@@ -1,4 +1,4 @@
-### Bem-vindo! 👋
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=OPEN+SANS&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=435&lines=BEM-VINDO!)](https://git.io/typing-svg)
 <!--
 **Akaixz/akaixz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
