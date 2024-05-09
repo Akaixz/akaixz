@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <p>💻 - IT Student</p>
 <p>⚡ - Python, HTML, CSS, Javascript </p>
 :books: - Currently learning FIGMA, SAP, React.js
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/pedro-fernandes-4ba221207/)](https://www.linkedin.com/in/pedro-fernandes-4ba221207/)
