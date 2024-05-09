@@ -1,5 +1,4 @@
 ### Bem-vindo! 👋
-<img align="center" width="400" height="400" src="https://camo.githubusercontent.com/c9f115d7c4ee0b87746089bd7265a875d4c30af7142bb6b7d50c30f520a03f15/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d464630303030266865696768743d3132302673656374696f6e3d686561646572">
 <!--
 **Akaixz/akaixz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
