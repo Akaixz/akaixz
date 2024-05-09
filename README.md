@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=%3CFull-Stack+Developer%2F%3E)](https://git.io/typing-svg)
+
 ----
 <p>💻 - IT Student</p>
 <p>⚡ - Python, HTML, CSS, Javascript </p>
