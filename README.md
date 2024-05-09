@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### Connect with me!
 <div>
-<p align="right">
+<p>
   <a href="https://www.linkedin.com/in/pedro-fernandes-4ba221207/" target="_blank">
     <img height="28" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
