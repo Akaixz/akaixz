@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 </div>
 <div>
   
-  [![Akaixz GitHub stats](https://github-readme-stats.vercel.app/api?username=NOMEGIT)](https://github.com/NOMEGIT/github-readme-stats)
+  [![Akaixz GitHub stats](https://github-readme-stats.vercel.app/api?username=Akaixz)](https://github.com/NOMEGIT/github-readme-stats)
   
 </div>
