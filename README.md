@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bem-vindo! 👋
 
 <!--
 **Akaixz/akaixz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Olá aqui!</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=%3CFull-Stack+Developer%2F%3E)](https://git.io/typing-svg)
