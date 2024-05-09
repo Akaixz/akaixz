@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+----
+
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=%3CFull-Stack+Developer%2F%3E)](https://git.io/typing-svg)
 
 ----
@@ -30,4 +32,9 @@ Here are some ideas to get you started:
   <a href=" maito:contato:pedro.fernandes2002@hotmail.com" target="_blank ">
     <img height="28"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+</div>
+<div>
+  
+  [![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=NOMEGIT)](https://github.com/NOMEGIT/github-readme-stats)
+  
 </div>
