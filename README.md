@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 </div>
 <div>
   
-  [![Akaixz GitHub stats](https://github-readme-stats.vercel.app/api?username=Akaixz)](https://github.com/NOMEGIT/github-readme-stats)
+[![Empyrean's GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=akaixz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Empyrean's GitHub Stats-Light](https://github-readme-stats.vercel.app/api?username=akaixz&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
   
 </div>
