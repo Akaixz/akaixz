@@ -13,7 +13,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+----
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=%3CFull-Stack+Developer%2F%3E)](https://git.io/typing-svg)
 <p>💻 - IT Student</p>
 <p>⚡ - Python, HTML, CSS, Javascript </p>
 <p>:books: - Currently learning FIGMA, SAP, React.js</p>
+### CONNECT WITH ME:
+<div>
+<p align="rigth">
+  <a href="https://www.linkedin.com/in/Lorena-Santos/" target="_blank">
+    <img height="28" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+
+  <a href=" maito:contato:santos.lorena848@gmail.com" target="_blank ">
+    <img height="28"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
