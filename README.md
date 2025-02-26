@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=%3CFull-Stack+Developer%2F%3E" alt="Typing SVG" /></a>
 <div>
   <p>💻 - IT Student</p>
-  <p>⚡ - Python, HTML, CSS, Javascript </p>
-  <p>:books: - Currently learning FIGMA, SAP, React.js</p>
+  <p>⚡ - C#, C++, Python, HTML, CSS, Javascript </p>
+  <p>:books: - Currently learning FIGMA, C#, C++, Python, React.js</p>
 </div>
 
 ----
